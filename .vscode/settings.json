@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ECEN4273_Project1 BAK2.sln"
+    "dotnet.defaultSolution": "Test.sln"
 }
