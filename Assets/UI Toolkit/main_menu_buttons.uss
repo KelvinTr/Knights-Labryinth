@@ -1,0 +1,19 @@
+.mmbutton {
+    background-color: rgb(58, 51, 51);
+    width: 300px;
+    font-size: 30px;
+    align-items: center;
+    height: 60px;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+
+.mmbutton:active {
+    background-color: rgb(58, 51, 51);
+    color: rgb(255, 0, 0);
+}
+
+.mmbutton:hover {
+    background-color: rgb(43, 43, 43);
+    color: rgb(132, 62, 62);
+}
